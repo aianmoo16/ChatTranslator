@@ -1,17 +1,15 @@
 ChatTranslator
 ==============
 
-A plugin that translates the chat instantly for all players to their native language.
-
 What is this plugin?
 
-this plugin is a spigot plugin that will change the entire server language and translate chat when a player joins from a non english country.
+This is a Spigot plugin that translates the server language and chat instantly for all players to their native 
+
 
 Why This plugin?
 
-This way we can have a wide range of players talking to each other on chat without even noticing others are talking in their own language. because everyone see the chat in their own language!
+This way we can have a wide range of players chatting to each other in the server chat without even knowing that others are typeing in their own language. because everyone will see the chat in their own language!
 
-Imagine of a community that we can all talk with everybody in the server. doesn't matter where they are from and what language they speak. because this way we can all communicate and play on a single server!!
 
 Plugin Details
 
@@ -23,4 +21,4 @@ This plugin will be able to translate chat when a player type for example french
 Features:
 
 Player will be informed on join that chat is being translated for them, if they don't want it, they can turn it off.
-This plugin can use google translate that will give us %90 accurate results.
+This plugin can uses google translate that will give us %90 accurate results.
